@@ -13,5 +13,4 @@ Rus
   
 Head / Оглавление  
 ---
-AuditExchangeMailBoxENG.ps1 - Script for logging Exchange mailbox events  
-AuditExchangeMailBoxENG.ps1 - Скрипт для логирования событий почтового ящика Exchange
+Transliteration_ISO-R9-1968.bas - VBA приложение для генерирования логина пользователя из русских букв.
